@@ -1,10 +1,71 @@
+<!-- Profile Header -->
+<h1 align="center">👋🏼 Hello, Ilham!</h1>
+<h3 align="center">Welcome to my GitHub Space 🚀</h3>
 
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta name="description" content="Ilham's GitHub Profile"> <meta name="author" content="Ilham"> <title>Ilham's GitHub Profile</title> <link rel="stylesheet" href="styles.css"> </head> <body> <div class="container"> <div class="image-container"> <!-- Replace with actual AI-generated image URL --> <img src="https://via.placeholder.com/200?text=AI+Generated+Student+Image" alt="Ilham Image"> </div> <h1>👊🏼 Hello Ilham</h1> <div class="section"> <h2>👀 About Me</h2> <p>I'm interested in cloud computing and currently a student at the University of South Wales pursuing a Computer Science degree.</p> </div> <div class="section"> <h2>🕹️ What I Am Doing</h2> <p>Learning Database Management and programming in C++ while studying for my AWS certifications.</p> </div> <div class="section"> <h2>🧩 Skillset</h2> <p>I possess beginner-level skills in C++ and SQL, while I am a pro in the following:</p> <div class="skills"> <ul> <li><strong>HTML:</strong> Pro</li> <li><strong>CSS:</strong> Pro</li> <li><strong>JavaScript:</strong> Pro</li> </ul> </div> </div> <div class="section"> <h2>📝 Recent Projects Completed</h2> <p>Developing a unique dynamic QR code attendance system for efficient class tracking.</p> </div> <div class="section"> <h2>✈️ Hobbies</h2> <p>I enjoy flight spotting and exploring the aviation industry, in which my favorite aircraft is the Airbus A350.</p> </div> </div> <script src="script.js"></script> </body> </html>
+---
 
+## 👀 <b>About Me</b>
+<p>🌥️ I'm a <b>cloud computing enthusiast</b> and a passionate <b>Computer Science student</b> at the University of South Wales. My journey involves combining technology and innovation to create impactful solutions.</p>
 
-/* Global Styles */ body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; } /* Container Style */ .container { background-color: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); max-width: 800px; width: 100%; } /* Section Header Styles */ h1, h2, h3 { color: #2c3e50; margin-bottom: 10px; } /* Paragraph and Text Styles */ p { color: #555; line-height: 1.6; } /* Section Style */ .section { margin-bottom: 20px; } /* Skills List Style */ .skills ul { list-style-type: none; padding: 0; } .skills li { margin: 5px 0; } /* Image Container */ .image-container { text-align: center; margin-bottom: 20px; } .image-container img { width: 200px; border-radius: 10px; }
+---
 
+## 🕹️ <b>What I’m Doing</b>
+<ul>
+  <li>🎯 <b>Database Management</b> and <b>Programming in C++</b> 🖥️</li>
+  <li>Preparing for <b>AWS Certifications</b> to build expertise in cloud services.</li>
+</ul>
 
+---
 
+## 🧩 <b>Skillset</b>
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>C++</b></td>
+      <td>🟢 Beginner</td>
+    </tr>
+    <tr>
+      <td><b>SQL</b></td>
+      <td>🟢 Beginner</td>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+      <td>🟢🟢🟢🟢 Pro</td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td>🟢🟢🟢🟢 Pro</td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td>🟢🟢🟢🟢 Pro</td>
+    </tr>
+  </tbody>
+</table>
 
-// Placeholder JavaScript for future functionality document.addEventListener('DOMContentLoaded', function() { console.log('Profile page loaded!'); // Add your future scripts here });
+---
+
+## 📝 <b>Recent Projects</b>
+<p>🚀 <b>Dynamic QR Code Attendance System</b>: Developed an innovative, dynamic QR code-based system to simplify and secure attendance tracking.</p>
+
+---
+
+## ✈️ <b>Hobbies</b>
+<ul>
+  <li>Flight Spotting: I’m fascinated by aircraft, and my favorite is the majestic <b>Airbus A350</b> 🛫.</li>
+  <li>Aviation Exploration: Exploring the world of aviation fuels my curiosity and passion for technology.</li>
+</ul>
+
+---
+
+### 🌟 <b>Let’s Collaborate</b>
+<p>Feel free to explore my repositories, star your favorite projects, or reach out to collaborate on exciting ideas!</p>
+
+<!-- Profile Image -->
+<img src="C:\Users\Ilham Nafeel\Desktop\New folder" />
