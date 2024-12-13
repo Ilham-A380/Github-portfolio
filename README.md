@@ -12,7 +12,7 @@
 ## 🕹️ <b>What I’m Doing</b>
 <ul>
   <li>🎯 <b>Database Management</b> and <b>Programming in C++</b> 🖥️</li>
-  <li>Preparing for <b>AWS Certifications</b> to build expertise in cloud services.</li>
+  <li>Preparing for <b>AWS Certifications</b> to become skilled in cloud services.</li>
 </ul>
 
 ---
@@ -36,15 +36,15 @@
     </tr>
     <tr>
       <td><b>HTML</b></td>
-      <td>🟢🟢🟢🟢 Pro</td>
+      <td>🟢🟢🟢 Pro</td>
     </tr>
     <tr>
       <td><b>CSS</b></td>
-      <td>🟢🟢🟢🟢 Pro</td>
+      <td>🟢🟢 Pro</td>
     </tr>
     <tr>
       <td><b>JavaScript</b></td>
-      <td>🟢🟢🟢🟢 Pro</td>
+      <td>🟢🟢 Pro</td>
     </tr>
   </tbody>
 </table>
@@ -52,14 +52,14 @@
 ---
 
 ## 📝 <b>Recent Projects</b>
-<p>🚀 <b>Dynamic QR Code Attendance System</b>: Developed an innovative, dynamic QR code-based system to simplify and secure attendance tracking.</p>
+<p>🚀 <b>Dynamic QR Code Attendance System</b>: Developing an innovative, dynamic QR code-based system to simplify and secure attendance tracking.</p>
 
 ---
 
 ## ✈️ <b>Hobbies</b>
 <ul>
   <li>Flight Spotting: I’m fascinated by aircraft, and my favorite is the majestic <b>Airbus A350</b> 🛫.</li>
-  <li>Aviation Exploration: Exploring the world of aviation fuels my curiosity and passion for technology.</li>
+  <li>Aviation Exploration: Exploring the world of aircrafts which fuels my curiosity and passion for technology.</li>
 </ul>
 
 ---
